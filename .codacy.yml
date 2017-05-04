@@ -1,6 +1,6 @@
 ---
 languages:
-  js:
+  javascript:
     extensions:
       - .js
       - .html
