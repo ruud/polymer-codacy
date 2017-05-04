@@ -2,8 +2,6 @@
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/6e7602eff39a4466a42f2713996ffec5)](https://www.codacy.com/app/ruud-prein/polymer-codacy?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ruud/polymer-codacy&amp;utm_campaign=Badge_Grade)
 
-[![Build Status](https://travis-ci.org/PolymerElements/polymer-starter-kit.svg?branch=master)](https://travis-ci.org/PolymerElements/polymer-starter-kit)
-
 This template is a starting point for building apps using a drawer-based
 layout. The layout is provided by `app-layout` elements.
 
